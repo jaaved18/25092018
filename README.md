@@ -1,2 +1,4 @@
-# 25092018
-Github new repository made on 25092018
+<?php
+  echo "Hello World!";
+  echo "PHP is so easy!";
+?>
